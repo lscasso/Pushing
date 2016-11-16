@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "709392154600",
+    "firebase_url": "https://pushing-f8fd2.firebaseio.com",
+    "project_id": "pushing-f8fd2",
+    "storage_bucket": "pushing-f8fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709392154600:android:00447da5fa9fd374",
+        "android_client_info": {
+          "package_name": "com.lscasso.pushing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709392154600-65j8q9dkdp2lufkf2frc1a70o6gcu074.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMUMojjIRGVsMPab3MrICzWnoTIGa9c4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
